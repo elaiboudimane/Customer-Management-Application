@@ -1,0 +1,72 @@
+.nav-item {
+    text-decoration: none;
+    font-weight: bold;
+    background-color: rgba(73, 19, 19, 0.801);
+    color: white;
+    position: relative;
+    margin-left: 2%;
+    padding: 1%;
+}
+
+.nav-item:hover {
+    color: white;
+    background-color: bisque;
+}
+
+nav {
+    margin-bottom: 2%;
+}
+
+h3 {
+    text-align: center;
+}
+
+#contact {
+    padding: 0.5%;
+    margin: 1%;
+}
+
+.control-group {
+    text-align: center;
+    margin: 1%;
+}
+
+.formCreateBtn {
+    text-align: center;
+    padding: 1%;
+    margin-top: 5%;
+}
+
+.createClientBody {
+    background-color: rgba(18, 18, 109, 0.849);
+}
+
+.createClient {
+    margin: 8%;
+    margin-left: 30%;
+    width: 20%;
+    background-color: white;
+    padding: 2%;
+    box-shadow: 1px 0.5px 0.5px 1px rgba(0, 0, 0, 0.726);
+    border-radius: 5px;
+}
+
+.createClient h3 {
+    padding: 1%;
+    background-color: rgb(18, 93, 18);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.alert {
+    background-color: rgba(212, 64, 64, 0.596);
+    color: white;
+    padding: 1%;
+}
+
+.lbl {
+    font-weight: bold;
+    color: brown;
+    text-decoration: underline;
+}
